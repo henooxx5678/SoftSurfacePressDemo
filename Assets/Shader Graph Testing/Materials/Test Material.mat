@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Test Material 2
+  m_Name: Test Material
   m_Shader: {fileID: -6465566751694194690, guid: ff0aad4161a35be41b49ffb694c6e0a6, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -70,8 +70,8 @@ Material:
     - _BumpScale: 1
     - _Collider_Expand_Angle_In_Degree: 44.38
     - _Collider_Radius: 0.3
-    - _Collider_Texture_Forward_Scale: 0.92
-    - _Collider_Texture_Plane_Scale: 6.6
+    - _Collider_Texture_Forward_Scale: 0.61
+    - _Collider_Texture_Plane_Scale: 2.58
     - _Collider_Texture_Scale: 2
     - _Collider_Texture_Scale_Reciprocal: 1.24
     - _Collider_World_Radius: 0.29
