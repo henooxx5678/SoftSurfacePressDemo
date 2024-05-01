@@ -74,8 +74,8 @@ Material:
     - _BumpScale: 1
     - _Collider_Expand_Angle_In_Degree: 44.38
     - _Collider_Radius: 0.3
-    - _Collider_Texture_Forward_Scale: 0.7
-    - _Collider_Texture_Plane_Scale: 3
+    - _Collider_Texture_Forward_Scale: 0.68
+    - _Collider_Texture_Plane_Scale: 2.93
     - _Collider_Texture_Scale: 2
     - _Collider_Texture_Scale_Reciprocal: 1.24
     - _Collider_World_Radius: 0.29
@@ -95,7 +95,7 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _To_Collider_Distance_To_Smooth: 0.5
+    - _To_Collider_Distance_To_Smooth: 0.35
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
@@ -107,7 +107,7 @@ Material:
     - _Collider_Right: {r: 1, g: 0, b: 0, a: 0}
     - _Collider_Up: {r: 0, g: 1, b: 0, a: 0}
     - _Collider_World_Direction: {r: 0, g: 0, b: -1, a: 0}
-    - _Collider_World_Position: {r: 0, g: 0, b: -1.1, a: 0}
+    - _Collider_World_Position: {r: 0, g: 0, b: -1.06, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Object_Origin_Point: {r: 0, g: 0, b: 0, a: 0}
